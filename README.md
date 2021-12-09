@@ -15,20 +15,20 @@
 - 📫 Reach me at **omartarek206@gmail.com**
 
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=omartarek206&theme=xcode)](https://git.io/omartarek206)
 
 <p align="center">
-  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmuhammedali&show_icons=true&locale=en&layout=compact&theme=radical" alt="omarmuhammedali" />
+  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omartarek206&show_icons=true&locale=en&theme=radical" alt="omartarek206" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omartarek206&show_icons=true&locale=en&layout=compact&theme=radical" alt="omartarek206" />
 </p>
 <!-- <p align="center">
-  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmuhammedali&theme=radical" alt="omarmuhammedali" />
+  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omartarek206&show_icons=true&locale=en&theme=radical" alt="omartarek206" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omartarek206&theme=radical" alt="omartarek206" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmuhammedali&show_icons=true&locale=en&layout=compact&theme=radical" alt="omarmuhammedali" /></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omartarek206&show_icons=true&locale=en&layout=compact&theme=radical" alt="omartarek206" /></p> -->
 
-<!-- [![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OmarMuhammedAli&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omartarek206&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
@@ -40,5 +40,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/omartarek206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-ali-1920a2149/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omartarek206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omartarek206/" height="30" width="40" /></a>
 </p>
