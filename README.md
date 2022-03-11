@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working as a Testing engineer at [robusta studio](https://github.com/RobustaStudio) and a Senior computer engineering student at Ain Shams University
 
-- 🌱 I’m currently learning **Software Development and Testing || Deep Learning**
+- 🌱 I’m currently learning **Software Development and Testing || Deep Learning**.
 
-- 👯 I’m interested in studying data science
+- 👯 I’m interested in studying data science and AI and recently finished Udacity's deep learning nanodegree.
 
 - 💻 I mainly code in **Python, C++ and JavaScript** but open to learning more!
 
