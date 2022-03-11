@@ -10,7 +10,7 @@
 
 - 👯 I’m interested in studying data science
 
-- 💻 I mainly code in **Python, C++ and JavaScript** but open to 
+- 💻 I mainly code in **Python, C++ and JavaScript** but open to learning more!
 
 - 📫 Reach me at **omartarek206@gmail.com**
 
