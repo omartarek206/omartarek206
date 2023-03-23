@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋🏽, I'm Omar Tarek<img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/></h1>
-<h3 align="center"> Computer Engineering Undergraduate Student</h3>
+<h3 align="center"> Computer Engineering Fresh Grad</h3>
 
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working as a Testing engineer at [robusta studio](https://github.com/RobustaStudio) and I'm in my final year of computer engineering at Ain Shams University
+- 🌱 I’m currently learning **Software Development**.
 
-- 🌱 I’m currently learning **Software Development and Testing || Deep Learning**.
+- 👯 I’m interested in AI, Data, and Backend development.
 
-- 👯 I’m interested in studying data science and AI and recently finished Udacity's deep learning nanodegree.
-
-- 💻 I mainly code in **Python, C++ and JavaScript** but open to learning more!
+- 💻 I mainly code in **Python, Java and JavaScript** but open to learning more!
 
 - 📫 Reach me at **omartarek206@gmail.com**
 
