@@ -13,7 +13,7 @@
 - 📫 Reach me at **omartarek206@gmail.com**
 
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=omartarek206&theme=xcode)](https://git.io/omartarek206)
+<!--[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=omartarek206&theme=xcode)](https://git.io/omartarek206) -->
 
 <p align="center">
   &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omartarek206&show_icons=true&locale=en&theme=radical" alt="omartarek206" />
