@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋🏽, I'm Omar Tarek<img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/></h1>
-<h3 align="center"> Computer Engineering Fresh Grad</h3>
+<h3 align="center"> Software Engineer</h3>
 
 
 #### 👨🏻‍💻  About Me
 
-- 🌱 I’m currently learning **Software Development**.
+- 🌱 I’m building apps and systems in **Stackdrop.co**, mainly using retool currently.
 
 - 👯 I’m interested in AI, Data, and Backend development.
 
-- 💻 I mainly code in **Python, Java and JavaScript** but open to learning more!
+- 💻 I mainly code in **JavaScript, Python, and Java** but open to learning more!
 
 - 📫 Reach me at **omartarek206@gmail.com**
 
@@ -39,4 +39,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omartarek206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omartarek206/" height="30" width="40" /></a>
-</p>
+<a href="mailto:omartarek206@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/485253/email-opened.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="mailto:omartarek206@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Retool_logo.svg" alt="" height="30" width="80" /></a>
+</p> -->
