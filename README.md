@@ -4,11 +4,11 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🌱 I’m building apps and systems in **Stackdrop.co**, mainly using retool currently.
+- 🌱 I’m building apps, systems and workflows in **[Stackdrop](https://www.stackdrop.co/)**, mainly using [retool](https://retool.com/) currently.
 
 - 👯 I’m interested in AI, Data, and Backend development.
 
-- 💻 I mainly code in **JavaScript, Python, and Java** but open to learning more!
+- 💻 I mainly code in **JavaScript(Retool/Node), Python(Django), and use PostgreSQL** but open to learning more!
 
 - 📫 Reach me at **omartarek206@gmail.com**
 
